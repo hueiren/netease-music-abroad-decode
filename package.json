@@ -1,0 +1,27 @@
+{
+  "name": "netease-music-abroad-decode",
+  "version": "0.0.1",
+  "description": "Javascript decoder for http responses when netease music thinks you are from abroad.",
+  "main": "./api/decode.js",
+  "scripts": {
+    "start": "vercel dev",
+    "test": "echo hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongnemo/netease-music-abroad-decode.git"
+  },
+  "author": {
+    "name": "Anzupop",
+    "url": "https://www.anzupop.com",
+    "email": "marshmallow@anzupop.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiongnemo/netease-music-abroad-decode/issues"
+  },
+  "homepage": "https://github.com/xiongnemo/netease-music-abroad-decode",
+  "devDependencies": {
+    "@vercel/node": "^1.7.1"
+  }
+}
